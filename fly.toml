@@ -1,4 +1,4 @@
-app = "fly-hello-wordpress"
+app = "mpwebjourney"
 
 [env]
 WORDPRESS_CONFIG_EXTRA = "define(\"MYSQL_CLIENT_FLAGS\", MYSQLI_CLIENT_SSL);"
